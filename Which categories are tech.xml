@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">product_category_name_english</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">agro_industry_and_commerce</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">food</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">food_drink</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">art</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">arts_and_craftmanship</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">party_supplies</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">christmas_supplies</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">audio</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">auto</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">baby</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">drinks</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">health_beauty</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">toys</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">bed_bath_table</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">home_confort</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">home_comfort_2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">home_construction</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">cds_dvds_musicals</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">cine_photo</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">air_conditioning</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">consoles_games</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">construction_tools_construction</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">costruction_tools_tools</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">construction_tools_lights</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">costruction_tools_garden</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">construction_tools_safety</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">cool_stuff</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">dvds_blu_ray</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">home_appliances</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">home_appliances_2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">electronics</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">small_appliances</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">sports_leisure</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">fashion_bags_accessories</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">fashion_shoes</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">fashion_sport</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">fashio_female_clothing</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">fashion_childrens_clothes</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">fashion_male_clothing</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">fashion_underwear_beach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">garden_tools</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">flowers</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">diapers_and_hygiene</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">industry_commerce_and_business</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">computers_accessories</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">musical_instruments</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">la_cuisine</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">books_imported</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">books_general_interest</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">books_technical</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">luggage_accessories</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">market_place</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">furniture_mattress_and_upholstery</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">kitchen_dining_laundry_garden_furniture</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">furniture_decor</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">office_furniture</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">furniture_bedroom</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">furniture_living_room</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">music</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">others</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">stationery</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">pc_gamer</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">computers</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">perfumery</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">pet_shop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">small_appliances_home_oven_and_coffee</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">portable_kitchen_food_processors</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">watches_gifts</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">security_and_services</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">signaling_and_security</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">tablets_printing_image</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">telephony</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">fixed_telephony</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">housewares</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
